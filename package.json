@@ -1,0 +1,21 @@
+{
+  "name": "closest_to_zero",
+  "version": "1.0.0",
+  "description": "Find SumOf Pair Of Numbers That Is Closest To Zero Test",
+  "main": "index.html",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickjohngray/closest_to_zero.git"
+  },
+  "author": "nick gray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickjohngray/closest_to_zero/issues"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
